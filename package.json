@@ -22,7 +22,7 @@
     "react-native-reanimated": "~3.14.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.9"
+    "@babel/core": "^7.25.2"
   },
   "private": true
 }
