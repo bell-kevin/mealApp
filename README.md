@@ -14,7 +14,7 @@
 
 ## How to:
 
-Create one app. for both Android and iOS (Apple) using one computer alorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
+Create one app. for both Android and iOS (Apple) using one computer algorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
 
 https://code.visualstudio.com/download
 
